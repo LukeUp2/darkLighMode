@@ -1,0 +1,1 @@
+# App created for testing the dark/light mode funcionality, with a simple example using styled-components
